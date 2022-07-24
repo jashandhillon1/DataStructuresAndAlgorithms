@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Leetcode/Backtracking"/>
+	<classpathentry kind="src" path="Leetcode/Blind75/LinkedList"/>
+	<classpathentry kind="src" path="Leetcode/Blind75/String"/>
+	<classpathentry kind="src" path="Leetcode/Blind75/Trees"/>
+	<classpathentry kind="src" path="Leetcode/Graph"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
