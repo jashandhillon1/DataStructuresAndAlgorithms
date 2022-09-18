@@ -26,7 +26,7 @@ class graph{
         ///To print the list
         for(int i=0;i<=n;i++){
             for(int j=1;j<adj.get(i).size();j++){
-                System.out.println(adj.get(i).get(j) + " ")
+                System.out.println(adj.get(i).get(j) + " ");
             }
         }
     }

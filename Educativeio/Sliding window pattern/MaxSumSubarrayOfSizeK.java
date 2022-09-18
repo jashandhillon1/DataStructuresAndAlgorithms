@@ -16,6 +16,6 @@ class MaxSumSubarrayOfSizeK{
     }
 
     public static void main(String[] args) {
-        system.out.println(MaxSumSubarrayOfSizeK.solution(3,new int[] {1,2,3,4,5}));
+        System.out.println(MaxSumSubarrayOfSizeK.solution(3,new int[] {1,2,3,4,5}));
     }
 }
