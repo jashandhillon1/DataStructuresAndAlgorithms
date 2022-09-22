@@ -23,6 +23,7 @@ class FruitIntoBasket{
         return maxsize;
 
     }
+    //adding comment
     public static void main(String[] args){
         FruitIntoBasket.solution(new char[] {'A','B','A','C'});
 
